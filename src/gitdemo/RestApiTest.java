@@ -21,6 +21,6 @@ public class RestApiTest {
 		System.out.println("delete twitter");
 	}
 	public void afterbranch() {
-		System.out.println("after branch");
+		System.out.println("after branch1");
 	}
 }
