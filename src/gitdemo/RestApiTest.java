@@ -20,4 +20,7 @@ public class RestApiTest {
 	public void deleteTwitter() {
 		System.out.println("delete twitter");
 	}
+	public void afterbranch() {
+		System.out.println("after branch");
+	}
 }
