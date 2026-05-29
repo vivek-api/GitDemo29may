@@ -16,7 +16,10 @@ public class RestApiTest {
 		System.out.println("end");
 		
 	}
-
+	
+	public void fromX() {
+		
+	}
 	public void deleteTwitter() {
 		System.out.println("delete twitter");
 	}
